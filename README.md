@@ -1,5 +1,5 @@
-# FoodApp-Kotlin-API-Spoonacular-
-Android - Navigation Component -Dagger Hilt - Binding - Room - Retrofit - DataStore - Coroutines - Shimmer
+# Dagger-Hilt FoodApp-Kotlin-API-Spoonacular-
+# Android - Navigation Component -Dagger Hilt - Binding - Room - Retrofit - DataStore - Coroutines - Shimmer
 
 <br>
 
